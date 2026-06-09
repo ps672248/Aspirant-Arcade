@@ -152,7 +152,7 @@ IOCL GET preparation app
 Coal India CBT preparation
 PSU technical interview practice
 AI mock GD for PSU interviews
-PSU group discussion topics 2025
+PSU group discussion topics 2026
 Free PSU MCQ app no signup
 PSU exam app Android free download
 Best PSU preparation app 2025 2026
