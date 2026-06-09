@@ -2,7 +2,7 @@
 
 **AI-powered PSU exam prep that feels like a game. Free on Android & Web. No login required.**
 
-🌐 **Web:** [aspirant-arcade.vercel.app](https://aspirant-arcade.vercel.app)  
+🌐 **Web:** [https://www.aspirant-arcade.xyz](https://www.aspirant-arcade.xyz/) [aspirant-arcade.vercel.app](https://aspirant-arcade.vercel.app)  
 📱 **Android:** [Download APK (Free, Direct Install)](https://cwhpybswvsmoiwzkyhlj.supabase.co/storage/v1/object/public/app-releases/aspirant-arcade/aspirant_arcade_1.0.0_mobile.apk)
 
 ---
@@ -67,6 +67,7 @@ Unlike generic quiz apps, Aspirant Arcade generates **AI-powered questions calib
 
 ### Web App — No Install
 Open in any browser:  
+👉 **[aspirant-arcade.xyz](https://www.aspirant-arcade.xyz/)**
 👉 **[aspirant-arcade.vercel.app](https://aspirant-arcade.vercel.app)**
 
 ### Android APK — Free Direct Install
@@ -134,7 +135,7 @@ Same idle time. Actual exam prep.
 
 ## Screenshots
 
-> Open [aspirant-arcade.vercel.app](https://aspirant-arcade.vercel.app) to see the live demo directly in browser.
+> Open [aspirant-arcade.xyz](https://www.aspirant-arcade.xyz/) to see the live demo directly in browser.
 
 ---
 
